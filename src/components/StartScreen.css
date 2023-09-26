@@ -1,0 +1,32 @@
+.start{
+    font-size: 28px;
+}
+
+.start h1{
+    border: 5px solid #FFF;
+    border-radius: 3.5px; 
+    padding: 0 20px;
+}
+
+.start p{
+    margin-bottom: 12px;
+    color: #FFF
+}
+
+button{
+    background: rgb(50, 165, 34);
+    color: #FFF;
+    padding: 0 45px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    height: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+button:hover{
+    background-color: rgb(18, 59, 12);
+}
